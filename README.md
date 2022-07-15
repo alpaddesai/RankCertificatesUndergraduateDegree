@@ -9,4 +9,4 @@ The project provides an overivew of the umdergraduate degree and rank certificat
 ## Rank top 5 in the class 
 ![image](GPA.jpg)
 
-Additional details reference https://github.com/alpaddesai/TestScores
+Additional details reference https://github.com/alpaddesai/TestScores and https://github.com/alpaddesai/CFA
