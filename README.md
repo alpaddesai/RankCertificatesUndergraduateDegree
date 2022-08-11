@@ -12,4 +12,7 @@ The project provides an overivew of the umdergraduate degree and rank certificat
 ## Admission application to Tier I Stanford Business School
 ![image](MSxProgram.jpg)
 
+## Globally accepted graduate admission test
+![image](GRE_Exam.jpg)
+
 Additional details reference https://github.com/alpaddesai/TestScores and https://github.com/alpaddesai/CFA
