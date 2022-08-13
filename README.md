@@ -12,5 +12,5 @@ The project provides an overivew of the undergraduate degree and rank certificat
 ## Admission application to Tier I Stanford Business School
 ![image](MSxProgram.jpg)
 
-#### Something about a castle...
+##### Something about a castle...
 Additional details reference https://github.com/alpaddesai/TestScores and https://github.com/alpaddesai/CFA
