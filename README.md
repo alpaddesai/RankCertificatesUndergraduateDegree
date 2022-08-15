@@ -13,4 +13,4 @@ The project provides an overivew of the undergraduate degree and rank certificat
 ![image](MSxProgram.jpg)
 
 ##### Something about a castle...
-Additional details reference https://github.com/alpaddesai/TestScores and https://github.com/alpaddesai/CFA
+Additional details reference https://github.com/alpaddesai/TestScores 
