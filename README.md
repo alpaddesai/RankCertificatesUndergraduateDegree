@@ -13,4 +13,4 @@ The project provides an overivew of the undergraduate degree and rank certificat
 ![image](MSxProgram.jpg)
 
 ##### Something about a castle...
-Additional details reference https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai and  https://github.com/alpaddesai/MedicalDevices.
+Additional details reference https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and  https://github.com/alpaddesai/MedicalDevices, and  https://github.com/alpaddesai. 
