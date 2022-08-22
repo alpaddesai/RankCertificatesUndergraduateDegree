@@ -2,7 +2,7 @@
 
 The project provides an overview of the undergraduate degree and rank certificates
 
-## Leading #1 academic engineering institute in the state at the time '03
+## Leading #1 academic engineering institute in the state at the time '03, Rank top 5 in the class
 ![image](BachelorEngineering.jpg)
 ## https://www.rolex.com/
 
