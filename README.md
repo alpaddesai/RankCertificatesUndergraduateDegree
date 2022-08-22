@@ -6,7 +6,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 ![image](BachelorEngineering.jpg)
 ## https://www.rolex.com/
 
-## Rank top 5 in the class 
+## World Education Services evaluated GPA
 ![image](GPA.jpg)
 
 ## Admission application to Tier I Stanford Business School
