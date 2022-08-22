@@ -13,7 +13,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 ![image](MSxProgram.jpg)
 
 ## Admission application to Tier I MIT Sloan School of Business
-![image](SDM_Application.jpg)
+![image](SDM_Application_MIT.jpg)
 
 ##### Something about a castle...
 Additional details reference https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel,  https://github.com/alpaddesai/MedicalDevices and  https://github.com/alpaddesai. 
