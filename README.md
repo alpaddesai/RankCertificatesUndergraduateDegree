@@ -9,6 +9,9 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## World Education Services evaluated GPA
 ![image](GPA.jpg)
 
+## GRE 
+![image](GRE_Exam.jpg)
+
 ## Admission application to Tier I Stanford Business School
 ![image](MSxProgram.jpg)
 
