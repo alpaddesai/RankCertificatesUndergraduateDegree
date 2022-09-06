@@ -13,7 +13,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 ![image](GRE_Exam.jpg)
 
 ## Healthcare
-![image](PatientDatabaseInformation.png
+![image](PatientDatabaseInformation.png)
 
 ## Admission application to Tier I Stanford Business School
 ![image](MSxProgram.jpg)
