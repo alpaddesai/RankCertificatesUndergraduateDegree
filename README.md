@@ -14,9 +14,6 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## Healthcare
 ![image](PatientDatabaseInformation.png)
 
-## Admission application to Tier I Stanford Business School
-![image](MSxProgram.jpg)
-
 ## Admission application to Tier I MIT Sloan School of Business
 ![image](SDM_Application_MIT.jpg)
 
