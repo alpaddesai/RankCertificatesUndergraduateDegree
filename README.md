@@ -14,7 +14,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## Healthcare
 ![image](PatientDatabaseInformation.png)
 
-## Admission application to Tier I MIT Sloan School of Business
+#### Admission application to Tier I MIT Sloan School of Business
 ![image](SDM_Application_MIT.jpg)
 
 ##### https://www.usnews.com/best-graduate-schools/top-business-schools/mba-rankings
