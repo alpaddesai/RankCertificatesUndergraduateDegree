@@ -2,16 +2,16 @@
 
 The project provides an overview of the undergraduate degree and rank certificates
 
-## Leading #1 academic engineering institute in the state at the time '03, Rank top 5 in the class
+### Leading #1 academic engineering institute in the state at the time '03, Rank top 5 in the class
 ![image](BachelorEngineering.jpg)
 
-## World Education Services evaluated GPA
+### World Education Services evaluated GPA
 ![image](GPA.jpg)
 
-## GRE 
+### GRE 
 ![image](GRE_Exam.jpg)
 
-## Healthcare
+### Healthcare
 ![image](PatientDatabaseInformation.png)
 
 #### Admission application to Tier I MIT Sloan School of Business
