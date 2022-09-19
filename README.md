@@ -17,6 +17,4 @@ The project provides an overview of the undergraduate degree and rank certificat
 #### Admission application to Tier I MIT Sloan School of Business
 ![image](SDM_Application_MIT.jpg)
 
-##### https://www.usnews.com/best-graduate-schools/top-business-schools/mba-rankings
-
 Additional details reference https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel,  https://github.com/alpaddesai/MedicalDevices, https://github.com/alpaddesai/ExecutiveMBA and  https://github.com/alpaddesai. 
