@@ -8,9 +8,6 @@ The project provides an overview of the undergraduate degree and rank certificat
 ### World Education Services evaluated GPA
 ![image](GPA.jpg)
 
-### GRE 
-![image](GRE_Exam.jpg)
-
 ### Healthcare
 ![image](PatientDatabaseInformation.png)
 
