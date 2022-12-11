@@ -11,4 +11,4 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## US copyright certification
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
