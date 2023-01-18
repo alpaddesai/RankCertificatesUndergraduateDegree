@@ -8,6 +8,9 @@ The project provides an overview of the undergraduate degree and rank certificat
 ### World Education Services evaluated GPA
 ![image](GPA.jpg)
 
+## Ethics
+![image](EthicsandExcellence.png)
+
 ## US copyright certification
 ![image](USCopyrightCertificate.png)
 
