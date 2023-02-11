@@ -5,8 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UndergraduateDegree"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="734" Width="1161" MaxWidth="1161" MaxHeight="734">
     <Grid>
+        <TabControl>
+            <TabItem Header="CollegeDegree">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="103*"/>
+                        <ColumnDefinition Width="1052*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image HorizontalAlignment="Left" Height="663" Margin="12,18,0,0" VerticalAlignment="Top" Width="1114" Source="/Bachelors_Degree.jpg" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="GPA" Height="20" VerticalAlignment="Top">
+                <TabItem.Background>
+                    <ImageBrush/>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="AmericanElementary">
+                            <Grid Background="#FFE5E5E5" Height="644" Margin="0,0,25,0">
+                                <Image HorizontalAlignment="Left" Height="629" Margin="5,5,0,0" VerticalAlignment="Top" Width="1051" Source="/ReadingAllStarsII.jpg"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="HighSchool">
+                            <Grid Background="#FFE5E5E5">
+                                <Image HorizontalAlignment="Left" Height="611" Margin="10,29,0,0" VerticalAlignment="Top" Width="1106" Source="/HighSchoolIndia.jpg"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>

@@ -7,4 +7,18 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Bachelors_Degree.jpg" />
+    <None Remove="Grades_marks_image.jpg" />
+    <None Remove="HighSchoolIndia.jpg" />
+    <None Remove="ReadingAllStarsII.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Bachelors_Degree.jpg" />
+    <Resource Include="Grades_marks_image.jpg" />
+    <Resource Include="HighSchoolIndia.jpg" />
+    <Resource Include="ReadingAllStarsII.jpg" />
+  </ItemGroup>
+
 </Project>
