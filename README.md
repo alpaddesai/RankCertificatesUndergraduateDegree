@@ -7,7 +7,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 
 ### World Education Services evaluated GPA
 ![image](AmericanElementary.jpg)
-![image](HighSchoolGradeI.jpg)
+![image](HighSchoolGradeIndia.jpg)
 
 ## Ethics
 ![image](EthicsandExcellence.png)
