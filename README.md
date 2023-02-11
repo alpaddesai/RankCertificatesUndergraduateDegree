@@ -1,13 +1,13 @@
-## Rank Certificates Undergraduate Degree
+# Rank Certificates Undergraduate Degree
 
 The project provides an overview of the undergraduate degree and rank certificates
 
-### Leading #1 academic engineering institute in the state at the time 2003
+## Leading #1 academic engineering institute in the state at the time 2003
 ![image](CollegeDegree.jpg)
 ![image](RankCertificates.jpg)
 ![image](UndergraduateCollege.jpg)
 
-### World Education Services evaluated GPA
+## World Education Services evaluated GPA
 ![image](AmericanElementary.jpg)
 ![image](HighSchoolGradesaIndia.jpg)
 
