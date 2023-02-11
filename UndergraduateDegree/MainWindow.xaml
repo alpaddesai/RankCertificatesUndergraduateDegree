@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="734" Width="1161" MaxWidth="1161" MaxHeight="734">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
         <TabControl>
             <TabItem Header="CollegeDegree">
                 <Grid Background="#FFE5E5E5">
@@ -22,17 +25,20 @@
                     <ImageBrush/>
                 </TabItem.Background>
                 <Grid Background="#FFE5E5E5">
-                    <TabControl>
+                    <TabControl SelectionChanged="TabControl_SelectionChanged_1" Margin="-5,1,22,10">
+                        <TabControl.Background>
+                            <ImageBrush ImageSource="/HighSchoolGradesaIndia.jpg"/>
+                        </TabControl.Background>
                         <TabItem Header="AmericanElementary">
                             <Grid Background="#FFE5E5E5" Height="644" Margin="0,0,25,0">
-                                <Image HorizontalAlignment="Left" Height="629" Margin="5,5,0,0" VerticalAlignment="Top" Width="1051" Source="/ReadingAllStarsII.jpg"/>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="160*"/>
+                                    <ColumnDefinition Width="947*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image HorizontalAlignment="Left" Height="629" Margin="5,5,0,0" VerticalAlignment="Top" Width="1051" Source="/ReadingAllStarsII.jpg" Grid.ColumnSpan="2"/>
                             </Grid>
                         </TabItem>
-                        <TabItem Header="HighSchool">
-                            <Grid Background="#FFE5E5E5">
-                                <Image HorizontalAlignment="Left" Height="611" Margin="10,29,0,0" VerticalAlignment="Top" Width="1106" Source="/HighSchoolIndia.jpg"/>
-                            </Grid>
-                        </TabItem>
+                        <TabItem Header="HighSchool"/>
                     </TabControl>
                 </Grid>
             </TabItem>
