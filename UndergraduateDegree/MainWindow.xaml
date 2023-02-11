@@ -13,11 +13,31 @@
         <TabControl>
             <TabItem Header="CollegeDegree">
                 <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="29.002"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="103*"/>
                         <ColumnDefinition Width="1052*"/>
                     </Grid.ColumnDefinitions>
-                    <Image HorizontalAlignment="Left" Height="663" Margin="12,18,0,0" VerticalAlignment="Top" Width="1114" Source="/Bachelors_Degree.jpg" Grid.ColumnSpan="2"/>
+                    <TabControl Grid.ColumnSpan="2" Margin="0,0,6,1" Grid.RowSpan="2">
+                        <TabItem Header="College">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="8,6,540,14" Source="/BE.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="RankCertificates">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="12,18,43,36" Stretch="Fill">
+                                    <Image.OpacityMask>
+                                        <ImageBrush/>
+                                    </Image.OpacityMask>
+                                </Image>
+                                <Image HorizontalAlignment="Left" Margin="11,0,0,0" VerticalAlignment="Center" Source="/RankCertificates.jpg" Width="1114" Height="649" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
                 </Grid>
             </TabItem>
             <TabItem Header="GPA" Height="20" VerticalAlignment="Top">
