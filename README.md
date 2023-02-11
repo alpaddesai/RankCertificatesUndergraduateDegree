@@ -6,7 +6,8 @@ The project provides an overview of the undergraduate degree and rank certificat
 ![image](BachelorEngineering.jpg)
 
 ### World Education Services evaluated GPA
-![image](GPA.jpg)
+![image](AmericanElementary.jpg)
+![image](HighSchoolGradeI.jpg)
 
 ## Ethics
 ![image](EthicsandExcellence.png)
