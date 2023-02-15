@@ -14,4 +14,5 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## US Copyright Certification
 ![image](USCopyrightCertificate.png)
 
+##### academic project in industry
 ### Popular Project reference https://github.com/alpaddesai/LifeStyle
