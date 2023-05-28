@@ -8,6 +8,8 @@ The project provides an overview of the undergraduate degree and rank certificat
 ## World Education Services evaluated GPA
 ![image](WorldEducationServices.jpg)
 
+## Popular exam: https://github.com/alpaddesai/GraduateAptitudeTest_ElectricalEngineering
+
 ## Ethics
 ![image](EthicsandExcellence.png)
 
