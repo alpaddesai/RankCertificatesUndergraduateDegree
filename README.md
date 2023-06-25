@@ -10,7 +10,7 @@ The project provides an overview of the undergraduate degree and rank certificat
 
 #### Popular Vote Topic: Power Electronics Exam: https://github.com/alpaddesai/GraduateAptitudeTest_ElectricalEngineering
 #### Popular Vote Topic: Computer Architecture Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_CS
-#### Popular Vote Topic: Engineering Electromagnetics Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications
+#### Popular Vote Topic: Analog design and Engineering Electromagnetics Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications
 
 ## Ethics
 ![image](EthicsandExcellence.png)
